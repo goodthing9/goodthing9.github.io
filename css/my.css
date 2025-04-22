@@ -1,0 +1,14 @@
+/* Here is your custom css styles. */
+
+
+
+/* 强制打字效果文字样式 */
+.brand #subtitle {
+    color: #2530fe !important; /* 打字效果文字颜色 */
+}
+
+/* 打字效果光标样式 */
+.typed-cursor {
+    color: #42b983; /* 光标颜色 */
+    font-size: 1.5rem; /* 光标大小 */
+}
